@@ -18,8 +18,7 @@ Inspired by @jessabean's [100 Days of Javascript](https://github.com/jessabean/1
 
 ## The Projects
 
-1. **Literary Quotes** - Randomly cycling through quotes from books I've read
-  - [website] | [Github]
+1. **Literary Quotes** - Randomly cycling through quotes from books I've read [website] | [Github]
 2. [minimum](exercises/081616-minimum.js)
 3. [recursion](exercises/081816-recursion.js)
 4. [character counting](exercises/081816-beancounting.js)
